@@ -482,6 +482,7 @@ footer {
         width: 100%;
         height: 100px;
      }
+
     .nav-menu{
         display: flex;
         width: 100%;  
@@ -512,6 +513,11 @@ footer {
     .search > input {
         padding: 0 0 0 5em;
         height: 45px;
+    }
+
+    .music-gallery-container {
+        width: 100%;
+        height: 800px;
     }
 
     .footer-services > a {
